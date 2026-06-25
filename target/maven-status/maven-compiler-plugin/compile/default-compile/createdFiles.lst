@@ -1,0 +1,9 @@
+com\ats\controller\PageController.class
+com\ats\controller\CandidateController.class
+com\ats\config\WebConfig.class
+com\ats\dto\StatusUpdateDto.class
+com\ats\entity\Candidate.class
+com\ats\dto\CandidateDto.class
+com\ats\ResumeScreeningAtsApplication.class
+com\ats\service\CandidateService.class
+com\ats\repository\CandidateRepository.class
